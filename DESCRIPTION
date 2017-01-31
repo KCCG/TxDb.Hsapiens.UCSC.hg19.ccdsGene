@@ -1,0 +1,16 @@
+Package: TxDb.Hsapiens.UCSC.hg19.ccdsGene
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from UCSC by exposing these as TxDb objects
+Version: 1.0.0
+Author: Mark Cowley <m.cowley@garvan.org.au>
+Maintainer: Mark Cowley <m.cowley@garvan.org.au>
+Depends: GenomicFeatures (>= 1.20.3)
+Imports: GenomicFeatures, AnnotationDbi
+License: Artistic-2.0
+organism: Homo sapiens
+species: Homo sapiens
+provider: UCSC
+provider_version: hg19 genome based on the ccdsGene table
+release_date: 2015-09-03 11:29:23 +1000 (Thu, 03 Sep 2015)
+resource_url: http://genome.ucsc.edu/
+biocViews: AnnotationData, Genetics, TxDb, Homo_sapiens
