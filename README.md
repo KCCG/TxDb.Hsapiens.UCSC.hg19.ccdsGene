@@ -1,5 +1,5 @@
 This is an R package, which contains a TxDB representing CCDS (Consensus CDS) 
-genes. This is intended to be used similarly to the official BioConductor 
+transcripts. This is intended to be used similarly to the official BioConductor
 package `TxDb.Hsapiens.UCSC.hg19.knownGene`.
 
  library(TxDb.Hsapiens.UCSC.hg19.ccdsGene)
